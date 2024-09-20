@@ -1,4 +1,4 @@
-module github.com/Dhira2000/api
+module github.com/operator-framework/api
 
 go 1.22.0
 
