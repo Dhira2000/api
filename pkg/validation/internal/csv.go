@@ -3,15 +3,16 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/blang/semver/v4"
 	"io"
 	"reflect"
 	"strings"
 
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	"github.com/blang/semver/v4"
 
-	"github.com/operator-framework/api/pkg/operators/v1alpha1"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
+
+	"github.com/Dhira2000/api/pkg/operators/v1alpha1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	k8svalidation "k8s.io/apimachinery/pkg/util/validation"

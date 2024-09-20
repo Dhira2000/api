@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	operatorsv1alpha1 "github.com/operator-framework/api/pkg/operators/v1alpha1"
+	operatorsv1alpha1 "github.com/Dhira2000/api/pkg/operators/v1alpha1"
 
-	"github.com/operator-framework/api/pkg/validation/errors"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"sigs.k8s.io/yaml"
 )

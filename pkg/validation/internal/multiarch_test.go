@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/operators/v1alpha1"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/operators/v1alpha1"
 	"github.com/stretchr/testify/require"
 )
 

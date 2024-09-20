@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/operators/v1alpha1"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 	"github.com/blang/semver/v4"
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/operators/v1alpha1"
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
 )
 
 // OperatorHubValidator validates the bundle manifests against the required criteria to publish

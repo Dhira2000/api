@@ -7,7 +7,7 @@ import (
 	k8sscheme "k8s.io/client-go/kubernetes/scheme"
 	ref "k8s.io/client-go/tools/reference"
 
-	"github.com/operator-framework/api/pkg/operators/install"
+	"github.com/Dhira2000/api/pkg/operators/install"
 )
 
 var scheme = runtime.NewScheme()

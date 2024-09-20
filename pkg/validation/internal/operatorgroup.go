@@ -1,10 +1,10 @@
 package internal
 
 import (
-	operatorsv1 "github.com/operator-framework/api/pkg/operators/v1"
-	operatorsv1alpha2 "github.com/operator-framework/api/pkg/operators/v1alpha2"
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	operatorsv1 "github.com/Dhira2000/api/pkg/operators/v1"
+	operatorsv1alpha2 "github.com/Dhira2000/api/pkg/operators/v1alpha2"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 )
 
 // OperatorGroupValidator is a validator for OperatorGroup

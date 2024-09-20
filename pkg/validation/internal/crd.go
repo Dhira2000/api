@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 
 	"k8s.io/apiextensions-apiserver/pkg/apis/apiextensions"
 	"k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/install"

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/operator-framework/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/manifests"
 	"github.com/stretchr/testify/require"
 )
 

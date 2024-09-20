@@ -2,9 +2,10 @@ package internal
 
 import (
 	"fmt"
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/stretchr/testify/require"
 	"testing"
+
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/stretchr/testify/require"
 )
 
 func Test_communityValidator(t *testing.T) {

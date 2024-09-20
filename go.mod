@@ -1,4 +1,4 @@
-module github.com/operator-framework/api
+module github.com/Dhira2000/api
 
 go 1.22.0
 
@@ -8,6 +8,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/go-bindata/go-bindata/v3 v3.1.3
 	github.com/google/cel-go v0.20.1
+	github.com/operator-framework/api v0.27.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.9.0

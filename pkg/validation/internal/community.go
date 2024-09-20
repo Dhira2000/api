@@ -9,9 +9,9 @@ import (
 
 	"github.com/blang/semver/v4"
 
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 )
 
 // IndexImagePathKey defines the key which can be used by its consumers

@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 )
 
 var StandardCategoriesValidator interfaces.Validator = interfaces.ValidatorFunc(validateCategories)

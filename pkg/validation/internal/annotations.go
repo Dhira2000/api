@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	v1 "github.com/operator-framework/api/pkg/operators/v1"
-	"github.com/operator-framework/api/pkg/operators/v1alpha1"
-	"github.com/operator-framework/api/pkg/validation/errors"
+	v1 "github.com/Dhira2000/api/pkg/operators/v1"
+	"github.com/Dhira2000/api/pkg/operators/v1alpha1"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 )
 
 const olmpropertiesAnnotation = "olm.properties"

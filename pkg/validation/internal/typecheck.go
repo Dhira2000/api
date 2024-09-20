@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/operator-framework/api/pkg/validation/errors"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 )
 
 // Recursive function that traverses a nested struct passed in as reflect

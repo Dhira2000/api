@@ -3,9 +3,9 @@ package internal
 import (
 	"fmt"
 
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/validation/errors"
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/validation/errors"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
 )
 
 var StandardCapabilitiesValidator interfaces.Validator = interfaces.ValidatorFunc(validateCapabilities)

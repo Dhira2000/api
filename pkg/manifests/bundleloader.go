@@ -13,8 +13,8 @@ import (
 	utilerrors "k8s.io/apimachinery/pkg/util/errors"
 	"k8s.io/apimachinery/pkg/util/yaml"
 
-	"github.com/operator-framework/api/pkg/encoding"
-	operatorsv1alpha1 "github.com/operator-framework/api/pkg/operators/v1alpha1"
+	"github.com/Dhira2000/api/pkg/encoding"
+	operatorsv1alpha1 "github.com/Dhira2000/api/pkg/operators/v1alpha1"
 )
 
 // bundleLoader loads a bundle directory from disk

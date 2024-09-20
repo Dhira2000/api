@@ -3,9 +3,9 @@ package internal
 import (
 	"testing"
 
-	operatorsv1alpha1 "github.com/operator-framework/api/pkg/operators/v1alpha1"
+	operatorsv1alpha1 "github.com/Dhira2000/api/pkg/operators/v1alpha1"
 
-	"github.com/operator-framework/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/manifests"
 	"github.com/stretchr/testify/require"
 )
 

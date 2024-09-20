@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	operatorsv1 "github.com/operator-framework/api/pkg/operators/v1"
-	"github.com/operator-framework/api/pkg/validation/errors"
+	operatorsv1 "github.com/Dhira2000/api/pkg/operators/v1"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 	"sigs.k8s.io/yaml"
 )
 

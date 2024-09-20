@@ -3,8 +3,8 @@ package validation
 import (
 	"testing"
 
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/validation/errors"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 
 	"github.com/stretchr/testify/require"
 )

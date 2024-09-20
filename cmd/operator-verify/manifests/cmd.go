@@ -1,9 +1,9 @@
 package manifests
 
 import (
-	"github.com/operator-framework/api/pkg/manifests"
-	"github.com/operator-framework/api/pkg/validation"
-	"github.com/operator-framework/api/pkg/validation/errors"
+	"github.com/Dhira2000/api/pkg/manifests"
+	"github.com/Dhira2000/api/pkg/validation"
+	"github.com/Dhira2000/api/pkg/validation/errors"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

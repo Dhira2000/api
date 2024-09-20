@@ -5,7 +5,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/operator-framework/api/pkg/operators"
+	"github.com/Dhira2000/api/pkg/operators"
 )
 
 const (

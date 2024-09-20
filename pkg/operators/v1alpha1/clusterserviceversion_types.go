@@ -13,7 +13,7 @@ import (
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/util/intstr"
 
-	"github.com/operator-framework/api/pkg/lib/version"
+	"github.com/Dhira2000/api/pkg/lib/version"
 )
 
 const (

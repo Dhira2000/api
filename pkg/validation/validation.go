@@ -9,8 +9,8 @@
 package validation
 
 import (
-	interfaces "github.com/operator-framework/api/pkg/validation/interfaces"
-	"github.com/operator-framework/api/pkg/validation/internal"
+	interfaces "github.com/Dhira2000/api/pkg/validation/interfaces"
+	"github.com/Dhira2000/api/pkg/validation/internal"
 )
 
 // PackageManifestValidator implements Validator to validate package manifests.
